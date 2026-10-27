@@ -42,8 +42,8 @@ NeuroGuard is an AI-assisted neurological screening and motor assessment applica
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vikasvikasgl-oss/neuroguard-gait-analysis_7sem.git
-   cd neuroguard-gait-analysis_7sem
+   git clone https://github.com/vikasvikasgl-oss/major_project_7thsem.git
+   cd major_project_7thsem
    ```
 
 2. Install dependencies:
